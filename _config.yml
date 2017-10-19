@@ -19,7 +19,32 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8719f54a-b01d-47ab-8392-996897e09824.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/8719f54a-b01d-47ab-8392-996897e09824.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: Modern Arbor
 description: >-
   Welcome to the home of ethical tree care.  Modern Arbor Professional Tree
