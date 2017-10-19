@@ -1,24 +1,25 @@
 ---
 inFeed: true
 description: >-
-  Our ServicesModern Arbor's personnel are qualified and fully insured for your
-  peace of mind, offering free quotes to the greater Hobart area and pensioner
-  discounts.We'll leave your garden tidy and your plants and property intact!
-dateModified: '2017-10-19T00:01:32.899Z'
-datePublished: '2017-10-19T00:01:33.805Z'
-title: ''
+  Modern Arbor's personnel are qualified and fully insured for your peace of
+  mind, offering free quotes to the greater Hobart area and pensioner discounts.
+dateModified: '2017-10-19T00:11:09.007Z'
+datePublished: '2017-10-19T00:11:09.624Z'
+title: Our Services
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-10-19T00:01:33.805Z'
 sourcePath: >-
   _posts/2017-10-19-our-servicesmodern-arbors-personnel-are-qualified-and-fully.md
+starred: false
+datePublishedOriginal: '2017-10-19T00:01:33.805Z'
 _type: Blurb
 
 ---
-**Our Services**  
-Modern Arbor's personnel are qualified and fully insured for your peace of mind, offering free quotes to the greater Hobart area and pensioner discounts.  
+# **Our Services**
+
+Modern Arbor's personnel are qualified and fully insured for your peace of mind, offering free quotes to the greater Hobart area and pensioner discounts.
+
 We'll leave your garden tidy and your plants and property intact!
 
 With qualified and fully insured personnel, we offer a wide range of services including:
