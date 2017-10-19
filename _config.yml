@@ -27,3 +27,7 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00d41246-715f-474d-92d2-5426c7495c59.png
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c60879-9fa5-49c8-937d-1ca98a496259.png
+purpose:
+  - type: contact
+    url: 'tel:0449150471'
+    label: Call 0449150471
