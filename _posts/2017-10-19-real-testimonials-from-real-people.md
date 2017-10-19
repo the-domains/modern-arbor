@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: 'Kim Newell, New Town.'
-dateModified: '2017-10-19T00:08:59.772Z'
-datePublished: '2017-10-19T00:09:01.313Z'
+dateModified: '2017-10-19T00:11:09.007Z'
+datePublished: '2017-10-19T00:11:09.626Z'
 title: Real testimonials from real people
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-19-real-testimonials-from-real-people.md
 starred: false
 datePublishedOriginal: '2017-10-19T00:09:01.313Z'
-sourcePath: _posts/2017-10-19-real-testimonials-from-real-people.md
 _type: Blurb
 
 ---
