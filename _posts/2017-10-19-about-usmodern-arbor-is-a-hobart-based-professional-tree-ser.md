@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Modern Arbor is a Hobart based professional tree service provider servicing
   Southern Tasmania and other locations state wide as required.
-dateModified: '2017-10-19T01:02:56.438Z'
-datePublished: '2017-10-19T01:02:57.610Z'
+dateModified: '2017-10-19T01:07:55.449Z'
+datePublished: '2017-10-19T01:07:56.333Z'
 title: About us
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ Owner / manager and tree climber Stuart Primrose is qualified in Biology of Plan
 
 For your peace of mind. Modern Arbor has public liability insurance to the value of $20 million dollars, and workers compensation insurance for our employees.
 
-We are a registerd contractor with Colliers International and our OH&S systems are independently audited by Noel Arnold and Associates.
+We are a registered contractor with Colliers International and our OH&S systems are independently audited by Noel Arnold and Associates.
 
 We offer a high level knowledge of trees and their biology, and will provide an unbiased opinion of your trees condition and offer management options to help retain your tree, or if necessary, the high level of skill required to remove an unsafe or dead tree. Whether your tree is sixty metres tall or six metres tall we have the skills and training to carry out any work you require to the highest standards.
 
