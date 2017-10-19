@@ -1,3 +1,16 @@
+layout_spectrum: 0.6561242871175492
+typography_spectrum: 0.5420997324050174
+color:
+  brandStrength: 0.7087866010259615
+  lightness: 0.6677325606022473
+  saturation: 0.1678864052135608
+  rhythmicContrast: 0.36909809712873826
+  brandColors:
+    - '#FFFFFF'
+    - '#046A38'
+    - '#B9D2C7'
+    - '#FCEB77'
+    - '#6DA589'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Modern Arbor
-layout_spectrum: 0.15536213503219187
-typography_spectrum: 0.9700458643492311
-color:
-  brandStrength: 0.7149673686362803
-  lightness: 0.10061342897824943
-  saturation: 0.03627657005563378
-  rhythmicContrast: 0.9783372988458723
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -61,7 +61,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
