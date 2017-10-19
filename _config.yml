@@ -31,3 +31,6 @@ purpose:
   - type: contact
     url: 'tel:0449150471'
     label: Call 0449150471
+  - type: contact
+    url: 'mailto:stuart@modernarbor.com'
+    label: Emal stuart@modernarbor.com
