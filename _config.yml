@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Modern Arbor
+layout_spectrum: 0.15536213503219187
+typography_spectrum: 0.9700458643492311
+color:
+  brandStrength: 0.7149673686362803
+  lightness: 0.10061342897824943
+  saturation: 0.03627657005563378
+  rhythmicContrast: 0.9783372988458723
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+content: []
+title: Modern Arbor
+description: ''
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00d41246-715f-474d-92d2-5426c7495c59.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/72c60879-9fa5-49c8-937d-1ca98a496259.png
