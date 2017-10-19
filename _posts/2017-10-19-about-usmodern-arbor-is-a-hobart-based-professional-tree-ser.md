@@ -1,22 +1,23 @@
 ---
 inFeed: true
 description: >-
-  About usModern Arbor is a Hobart based professional tree service provider
-  servicing Southern Tasmania and other locations state wide as required.
-dateModified: '2017-10-19T00:02:52.359Z'
-datePublished: '2017-10-19T00:02:53.387Z'
-title: ''
+  Modern Arbor is a Hobart based professional tree service provider servicing
+  Southern Tasmania and other locations state wide as required.
+dateModified: '2017-10-19T00:11:09.007Z'
+datePublished: '2017-10-19T00:11:09.626Z'
+title: About us
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-10-19T00:02:53.387Z'
 sourcePath: >-
   _posts/2017-10-19-about-usmodern-arbor-is-a-hobart-based-professional-tree-ser.md
+starred: false
+datePublishedOriginal: '2017-10-19T00:02:53.387Z'
 _type: Blurb
 
 ---
-**About us**  
+# **About us**
+
 Modern Arbor is a Hobart based professional tree service provider servicing Southern Tasmania and other locations state wide as required.
 
 Owner / manager and tree climber Stuart Primrose is qualified in Biology of Plants (UTAS) and Horticulture/Arboriculture and Conservation and Land Management (TAFE Tasmania).
